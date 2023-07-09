@@ -1,0 +1,38 @@
+body {
+	background-color: whitesmoke;
+	padding: 20px;
+}
+
+h1 {
+	color: navy;
+	text-align: center;
+}
+
+h2 {
+	color: navy;
+	text-align: center;
+}
+
+#projects {
+	
+}
+
+#skills {
+	border: thick double;
+}
+
+#aboutMe {
+	border: groove;
+	height: 220px;
+	width: 400px;
+	margin-top: 50px;
+}
+
+#socialMedia {
+	padding: 20px 20px 20px 30px;
+ 
+}
+
+.github {
+	margin-left: 50px;
+}
